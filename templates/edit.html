@@ -24,7 +24,7 @@
                         <a href="/logout"><button class="btn btn-primary">Logout</button></a>
                     <hr>
                     <h1>Add/Edit Posts</h1>
-                        <form id="contactForm" action="/edit/{{post.sno}}" method="post" data-sb-form-api-token="API_TOKEN">
+                        <form id="contactForm" action="/edit/{{sno}}" method="post" data-sb-form-api-token="API_TOKEN">
                         <div class="form-floating">
                             <input class="form-control" name="title" id="title" type="text" placeholder="Enter Title..." data-sb-validations="required" value="{{post.title}}" />
                             <label for="title">Name</label>
