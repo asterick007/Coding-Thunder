@@ -1,0 +1,14 @@
+{
+  "params": {
+    "local_server":"True",
+    "local_uri":"mysql+mysqlconnector://root:@localhost/codingthunder",
+    "prod_uri": "mysql+mysqlconnector://root:@localhost/codingthunder",
+    "gmail-user": "asterick18@gmail.com",
+    "gmail-password": "zcmy bafw ueqg dyez",
+    "no_of_posts": 2,
+    "blog_name": "Coding Thunder",
+    "admin_user": "Aman",
+    "admin_password": "WelcomeIn",
+    "upload_location": "C:\\Users\\Aman Trivedi\\OneDrive\\Desktop\\Study\\Flask\\Via_Harry\\static"
+  }
+}
